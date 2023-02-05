@@ -70,8 +70,8 @@ public class Main {
     //    System.out.println(false==false);
 
         int num = 45;
-        var num1 = 45;
-        var num2 = 49.0;
+    //    var num1 = 45;
+    //    var num2 = 49.0;
 
         int var = 67;
 
