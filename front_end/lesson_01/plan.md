@@ -1,0 +1,4 @@
+- HTML tags, elements.
+- HTML document structure (html, head, body), attributes.
+- Elements: h1..h6, p, ul, ol, li, img, a, creating anchors on html page.
+- HTML tables - tr, th, td.
