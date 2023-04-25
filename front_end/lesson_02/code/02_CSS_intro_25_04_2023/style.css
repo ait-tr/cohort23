@@ -1,0 +1,37 @@
+body {
+    background-color: pink;
+    font-size: 32px;
+    color: whitesmoke;
+    margin: 0;
+}
+
+.outer1 {
+    height: 200px;
+    background-color: blue;
+
+    /* сверху и снизу 16px, а справа и слева 0 */
+    /* padding-top: 25px; */
+    /* padding-right: 25px; */
+    /* padding-bottom: 25px; */
+    /* padding-left: 25px; */
+    /* padding: 25px; все 4 стороны */
+    /* padding: 25px 25px; по вертикали, по горизонтали */
+    /* padding: 25px 25px 25px; сверху, по горизонтали, снизу */
+    /* padding: 20px 25px 35px 42px; начиная сверху и по часовой стрелке */
+    margin: 0 auto 10px;
+    width: 90%;
+    border-top: 3px solid black;
+}
+
+.outer2 {
+    height: 200px;
+    background-color: green;
+    margin-top: 20px;
+}
+
+.inner1 {
+    height: 100px;
+    background-color: red;
+    width: 80%;
+    margin: 13px auto 0;
+}

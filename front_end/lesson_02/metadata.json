@@ -1,0 +1,10 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/02_CSS_intro_25_04_2023/index.html",
+    "code/02_CSS_Coffee_25_04_2023/index.html"
+  ],
+  "video": ""
+}

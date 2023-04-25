@@ -1,0 +1,6 @@
+- Structural tags div, span and semantic tags header, footer, main, section.
+- Styling elements on HTML page.
+- Styles: inline styles, CSS.
+- How to insert CSS into HTML document.
+- CSS selectors.
+- Class and id attributes.
