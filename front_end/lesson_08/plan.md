@@ -1,0 +1,3 @@
+- JS: primitive types, +, -, *, /, **, typeof;
+- Comparison operators, strict and non-strict comparison (== vs ===), coercion (automatic types conversions);
+- Arrays, for and while loops, iterating over arrays".
