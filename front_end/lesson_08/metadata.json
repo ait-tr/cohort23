@@ -3,6 +3,9 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
+    "code/07_JS_Dom1_Practice_05_05_2023/animation.html",
+    "code/07_JS_Dom1_Practice_05_05_2023/animation.css",
+    "code/07_JS_Dom1_Practice_05_05_2023/animation.js",
     "code/08_JS_Intro1_08_05_2023/index.html",
     "code/08_JS_Intro1_08_05_2023/script.js"
   ],
