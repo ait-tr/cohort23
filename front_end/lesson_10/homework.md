@@ -1,0 +1,1 @@
+- Create an object literal representing a bank account with properties for account number, account holder name, and balance. Add methods for depositing and withdrawing money from the account, and a method for checking the balance.
