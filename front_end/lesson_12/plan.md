@@ -1,0 +1,3 @@
+- Working with DOM - selecting elements, adding elements, modifying elements (content and styles);
+- Events, event listeners;
+- Counter project, onhover - running away button;
