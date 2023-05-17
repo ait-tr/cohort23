@@ -1,0 +1,5 @@
+- Event Loop;
+- Promises;
+- then, catch, finally;
+- setTimeout;
+- setInterval.
