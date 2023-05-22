@@ -1,0 +1,14 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/13_JS_JSONPlaceHolder_17_05_2023/index.html",
+    "code/13_JS_JSONPlaceHolder_17_05_2023/style.css",
+    "code/13_JS_JSONPlaceHolder_17_05_2023/script.js",
+    "code/14_JS_AsyncAwait_22_05_2023/index.html",
+    "code/14_JS_AsyncAwait_22_05_2023/style.css",
+    "code/14_JS_AsyncAwait_22_05_2023/script.js"
+  ],
+  "video": ""
+}
