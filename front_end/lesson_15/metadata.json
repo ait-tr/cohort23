@@ -1,0 +1,16 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/14_JS_JSONPlaceHolder_HomeWork_22_05_2023/index.html",
+    "code/14_JS_JSONPlaceHolder_HomeWork_22_05_2023/style.css",
+    "code/14_JS_JSONPlaceHolder_HomeWork_22_05_2023/script.js",
+    "code/14_JS_JSONPlaceHolder_HomeWork_22_05_2023/script2.js",
+    "code/14_JS_JSONPlaceHolder_HomeWork_22_05_2023/script3.js",
+    "code/15_JS_WeatherApp_24_05_2023/index.html",
+    "code/15_JS_WeatherApp_24_05_2023/style.css",
+    "code/15_JS_WeatherApp_24_05_2023/script.js"
+  ],
+  "video": ""
+}
