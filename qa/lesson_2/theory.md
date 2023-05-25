@@ -5,14 +5,14 @@
 
 ### Стандарт ISO/IEC 25010: 2011
 включает такие критерии как
-#### Functional suitability
-#### Reliability
-#### Performance Efficiency
-#### Usability
-#### Maintainability
-#### Portability
-#### Compatibility
-#### Security
+- Functional suitability
+- Reliability
+- Performance Efficiency
+- Usability
+- Maintainability
+- Portability
+- Compatibility
+- Security
 
 ## Классификация тестирования по уровням
 
