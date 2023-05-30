@@ -1,0 +1,12 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/16_react_intro/src/App.js",
+    "code/16_react_intro/src/components/ComponentA.js",
+    "code/16_react_intro/src/components/Counter.js",
+    "code/16_react_intro/src/components/MyComponent.js"
+  ],
+  "video": ""
+}
