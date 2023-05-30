@@ -113,3 +113,61 @@
 - Delete - удалить
 
 [Пример анализа](https://docs.google.com/spreadsheets/d/1ubCo1UocBvFPIWon52MVEdowofF9Ie_BhkCc7Qz3ntU/edit?usp=drive_link)
+
+#### Стек автотестирования 
+
+- Анализ требований
+
+- Определение набора тестов
+
+- Определение тестовых данных
+
+- Первый прогон тестов
+
+- Оценка результатов первого прогона
+
+- Отладка тестов
+
+- Создание баг-репортов
+
+- Документирование тестов
+
+- Определение графика выполнения
+
+- Выполнение тестов
+
+- Оценка результатов выполнения тестов
+
+- Сопровождение тестов
+
+- Отслеживание покрытия
+
+#### Тесты
+
+Драйвер тестируемой системы
+Selenium,Appium...
+
+#### Тестируемая система
+
+Фреймворк запуска тестов
+testng,junit...
+
+#### Cборщик
+
+Gradle,Maven... https://gradle.org/releases/
+
+#### Среда разработки
+
+IntelliJ IDEA, Visual Studio Code...
+
+#### Хранилище
+
+Github...
+
+#### Сервер непрерывной интеграции
+
+Jenkins...
+
+[Презентация](https://docs.google.com/presentation/d/1zS5zXsvj0tPpASjslWnsoz22Mi31whFd/edit?usp=drive_link&ouid=100462493827587974016&rtpof=true&sd=true)
+
+[Скачать chromedriver](https://chromedriver.chromium.org/downloads)
