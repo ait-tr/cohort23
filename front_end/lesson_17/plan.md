@@ -1,0 +1,3 @@
+- TypeScript vs JavaScript;
+- Using React with TypeScript;
+- Refactor counter component and React app with TypeScript.
