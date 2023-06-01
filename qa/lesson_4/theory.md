@@ -74,3 +74,6 @@
 [Презентация](https://docs.google.com/presentation/d/1n-pSPAs27r0zCi4aPtiZQAysjkZv9bBN/edit?usp=drive_link&ouid=100462493827587974016&rtpof=true&sd=true)
 
 [Chropath](https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo)
+
+
+[Папка с книгами](https://drive.google.com/drive/folders/1OFzHMbb_5M_6s7C9dKOEFT1k6SUonogN?usp=sharing)

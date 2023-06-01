@@ -1,9 +1,0 @@
-{
-  "plan": "plan.md",
-  "theory": "theory.md",
-  "homework": "homework.md",
-  "code": [
-    "code/FirstSeleniumProject/build.gradle"
-  ],
-  "video": ""
-}
