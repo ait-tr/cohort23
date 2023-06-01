@@ -71,7 +71,7 @@
 
 - By.partialLinkText
 
-[Презентация](https://docs.google.com/presentation/d/1n-pSPAs27r0zCi4aPtiZQAysjkZv9bBN/edit?usp=drive_link&ouid=100462493827587974016&rtpof=true&sd=true)
+[Презентация](https://docs.google.com/presentation/d/1JfIE4Hl3Z6eD8YusvJ12eRkFxyFOAcNn/edit?usp=sharing&ouid=100462493827587974016&rtpof=true&sd=true)
 
 [Chropath](https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo)
 
