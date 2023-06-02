@@ -1,0 +1,11 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/17_homework/src/components/todolist/TodoList.tsx",
+    "code/17_homework/src/components/todolist/TodoList.css",
+    "code/17_homework/src/App.tsx"
+  ],
+  "video": ""
+}
