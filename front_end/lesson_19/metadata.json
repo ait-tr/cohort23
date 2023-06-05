@@ -1,0 +1,11 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/19_class_component/src/components/Counter.tsx",
+    "code/19_class_component/src/components/FuncComponent.tsx",
+    "code/19_class_component/src/App.tsx"
+  ],
+  "video": ""
+}
