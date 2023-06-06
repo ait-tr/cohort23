@@ -47,7 +47,7 @@
 #### Анализ граничных значений
 проверка поведения продукта на крайних(граничных) значениях входных данных
 
-[Презентация](https://docs.google.com/presentation/d/1oGem5nFkwJJEBbeb1EYMFdND3I_0iiBz/edit?usp=drive_link&ouid=100462493827587974016&rtpof=true&sd=true)
+[Презентация](https://docs.google.com/presentation/d/1uVdcKJUaDrAZDnBAJzQsBDkojhb80AkQ/edit?usp=drive_link&ouid=100462493827587974016&rtpof=true&sd=true)
 
 ## Локаторы
 
