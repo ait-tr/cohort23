@@ -1,0 +1,16 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/20_router/src/components/Users.tsx",
+    "code/20_router/src/components/Home.tsx",
+    "code/20_router/src/components/About.tsx",
+    "code/20_router/src/App.tsx",
+    "code/20_router_fetch/src/components/Users.tsx",
+    "code/20_router_fetch/src/components/Comments.tsx",
+    "code/20_router_fetch/src/components/Posts.tsx",
+    "code/20_router_fetch/src/App.tsx"
+  ],
+  "video": ""
+}

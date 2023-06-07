@@ -1,0 +1,2 @@
+- Routing: navigation in react app with react-router-dom library;
+- Navigation panel component (navbar).
