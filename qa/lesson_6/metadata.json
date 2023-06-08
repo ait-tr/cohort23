@@ -1,0 +1,10 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/PhoneBook/build.gradle",
+    "code/PhoneBook/src/test/java/com/phonebook/tests/HomePageTests.java"
+  ],
+  "video": ""
+}
