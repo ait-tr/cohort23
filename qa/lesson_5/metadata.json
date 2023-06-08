@@ -5,7 +5,8 @@
   "code": [
     "code/FirstSeleniumProject/build.gradle",
     "code/FirstSeleniumProject/src/test/java/com/ait/qa23/FirstSeleniumTest.java",
-    "code/FirstSeleniumProject/src/test/java/com/ait/qa23/FindElementTests.java"
+    "code/FirstSeleniumProject/src/test/java/com/ait/qa23/FindElementTests.java",
+    "code/FirstSeleniumProject/src/test/java/com/ait/qa23/TableTests.java"
   ],
   "video": ""
 }
