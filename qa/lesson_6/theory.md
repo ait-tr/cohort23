@@ -7,6 +7,8 @@
 
 [Презентация](https://docs.google.com/presentation/d/1rvzQNyS3-kYkIR_N785r6kUkZVJxfJhG/edit?usp=drive_link&ouid=100462493827587974016&rtpof=true&sd=true)
 
+[Примеры](https://drive.google.com/file/d/1FRefYRrUskJAaWokmLihglBEyazDr3f0/view?usp=drive_link)
+
 ## Комбинирование данных
 
 Основные методы комбинирования:
@@ -52,3 +54,5 @@ Allpairs download https://www.satisfice.com/download/allpairs
 - Построить тестовую таблицу
 
 [Презентация](https://docs.google.com/presentation/d/1sBLdvYByWqpekDiX1i1LPsaWt_ajYkEc/edit?usp=drive_link&ouid=100462493827587974016&rtpof=true&sd=true)
+
+[Примеры](https://docs.google.com/spreadsheets/d/12zbJjgMrHAOKcntSo0ANF0NNRzfXylMCly6F2qhVEKM/edit?usp=drive_link)
