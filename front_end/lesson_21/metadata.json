@@ -1,0 +1,12 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/21_context/src/App.tsx",
+    "code/21_context/src/utils/utils.ts",
+    "code/21_context/src/components/UserOrders.tsx",
+    "code/21_context/src/components/SecondChild.tsx"
+  ],
+  "video": ""
+}
