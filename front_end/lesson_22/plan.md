@@ -1,0 +1,2 @@
+- Redux intro, state, reducer;
+- Project - counter.
