@@ -1,0 +1,20 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/22_react_redux/src/actions/counterAction.ts",
+    "code/22_react_redux/src/components/Counter.tsx",
+    "code/22_react_redux/src/reducers/counterReducer.ts",
+    "code/22_react_redux/src/store/store.ts",
+    "code/22_react_redux/src/App.tsx",
+    "code/22_react_redux/src/index.tsx",
+    "code/23_react_redux_fetch/src/actions/counterAction.ts",
+    "code/23_react_redux_fetch/src/components/Counter.tsx",
+    "code/23_react_redux_fetch/src/reducers/counterReducer.ts",
+    "code/23_react_redux_fetch/src/store/store.ts",
+    "code/23_react_redux_fetch/src/App.tsx",
+    "code/23_react_redux_fetch/src/index.tsx"
+  ],
+  "video": ""
+}
