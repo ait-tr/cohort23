@@ -5,7 +5,7 @@
   "code": [
     "code/22_react_redux/src/actions/counterAction.ts",
     "code/22_react_redux/src/components/Counter.tsx",
-    "code/22_react_redux/src/reducers/counterReducer.tsx",
+    "code/22_react_redux/src/reducers/counterReducer.ts",
     "code/22_react_redux/src/App.tsx"
   ],
   "video": ""
