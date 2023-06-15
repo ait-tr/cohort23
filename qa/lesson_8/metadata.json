@@ -6,6 +6,7 @@
     "code/PhoneBook/build.gradle",
     "code/PhoneBook/src/test/java/com/phonebook/tests/HomePageTests.java",
     "code/PhoneBook/src/test/java/com/phonebook/tests/CreateAccountTests.java",
+    "code/PhoneBook/src/test/java/com/phonebook/tests/LoginTests.java",
     "code/PhoneBook/src/test/java/com/phonebook/tests/TestBase.java"
   ],
   "video": ""
