@@ -1,0 +1,15 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/23_react_redux_fetch/src/components/Comments.tsx",
+    "code/23_react_redux_fetch/src/components/DataFetcher.tsx",
+    "code/23_react_redux_fetch/src/components/Posts.tsx",
+    "code/23_react_redux_fetch/src/reducer/reducers.ts",
+    "code/23_react_redux_fetch/src/store/store.ts",
+    "code/23_react_redux_fetch/src/App.tsx",
+    "code/23_react_redux_fetch/src/index.tsx"
+  ],
+  "video": ""
+}
