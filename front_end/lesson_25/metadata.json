@@ -1,0 +1,13 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/25_pizza_react_redux/redux/slices/cartSlice.ts",
+    "code/25_pizza_react_redux/redux/slices/filterSlice.ts",
+    "code/25_pizza_react_redux/redux/store.ts",
+    "code/25_pizza_react_redux/src/App.tsx",
+    "code/25_pizza_react_redux/src/index.tsx"
+  ],
+  "video": ""
+}
