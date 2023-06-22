@@ -1,4 +1,5 @@
 ## Задачи на урок:
 
-1. TestLink - выполнение тестов, метрики
-2. Methods type and click. Extract method, introduce parameter
+1. Selenium. Value Object Model
+2. @BeforeSuite
+3. Run tests from different browsers
