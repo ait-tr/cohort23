@@ -1,0 +1,23 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/25_pizza_react_redux/src/redux/slices/cartSlice.ts",
+    "code/25_pizza_react_redux/src/redux/slices/filterSlice.ts",
+    "code/25_pizza_react_redux/src/redux/slices/itemsSlice.ts",
+    "code/25_pizza_react_redux/src/redux/slices/searchSlice.ts",
+    "code/25_pizza_react_redux/src/redux/store.ts",
+    "code/25_pizza_react_redux/src/components/Header.tsx",
+    "code/25_pizza_react_redux/src/components/HeaderCart.tsx",
+    "code/25_pizza_react_redux/src/components/Logo.tsx",
+    "code/25_pizza_react_redux/src/components/Search.tsx",
+    "code/25_pizza_react_redux/src/components/Card.tsx",
+    "code/25_pizza_react_redux/src/components/Categories.tsx",
+    "code/25_pizza_react_redux/src/components/Homework.tsx",
+    "code/25_pizza_react_redux/src/components/Sorting.tsx",
+    "code/25_pizza_react_redux/src/App.tsx",
+    "code/25_pizza_react_redux/src/index.tsx"
+  ],
+  "video": ""
+}
