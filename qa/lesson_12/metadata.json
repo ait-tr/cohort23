@@ -23,7 +23,7 @@
     "code/PhoneBook/src/test/resources/regression.xml",
     "code/PhoneBook/src/test/resources/logback.xml",
     "code/PhoneBook/src/test/resources/contact.csv",
-    "qa/lesson_12/code/PhoneBook/.gitignore"
+    "code/PhoneBook/.gitignore"
   ],
   "video": ""
 }
