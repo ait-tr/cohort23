@@ -1,0 +1,19 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/QA23_POM_MavenProject/src/test/java/com/demoqa/tests/TestBase.java",
+    "code/QA23_POM_MavenProject/src/main/java/com/demoqa/pages/BasePage.java",
+    "code/QA23_POM_MavenProject/src/main/java/com/demoqa/pages/HomePage.java",
+    "code/QA23_POM_MavenProject/src/main/java/com/demoqa/pages/SidePanel.java",
+    "code/QA23_POM_MavenProject/src/main/java/com/demoqa/pages/AlertsPage.java",
+    "code/QA23_POM_MavenProject/src/test/java/com/demoqa/tests/AlertsTests.java",
+    "code/QA23_POM_MavenProject/src/main/java/com/demoqa/pages/BrowserWindowsPage.java",
+    "code/QA23_POM_MavenProject/src/test/java/com/demoqa/tests/BrowserWindowsTests.java",
+    "code/QA23_POM_MavenProject/src/main/java/com/demoqa/pages/DroppablePage.java",
+    "code/QA23_POM_MavenProject/src/test/java/com/demoqa/tests/DragDropTests.java",
+    "qa/lesson_13/code/QA23_POM_MavenProject/pom.xml"
+  ],
+  "video": ""
+}
