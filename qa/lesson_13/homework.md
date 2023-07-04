@@ -4,7 +4,6 @@
 
 В классе BrowserWindowsTests создайте, пожалуйста, тестовый метод по проверке кнопки NewTab
 
-В классе SelectTests создайте, пожалуйста, два тестовых метода по проверке "Select Value" и "Select One"
 
 
 
