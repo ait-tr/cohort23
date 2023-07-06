@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class SidePanel extends BasePage{
+public class SidePanel extends BasePage {
 
     public SidePanel(WebDriver driver) {
         super(driver);
@@ -14,7 +14,7 @@ public class SidePanel extends BasePage{
     WebElement alerts;
 
     public AlertsPage selectAlerts() {
-        clickWithJSExecutor(alerts,0,300);
+        clickWithJSExecutor(alerts, 0, 300);
         return new AlertsPage(driver);
     }
 
@@ -23,7 +23,7 @@ public class SidePanel extends BasePage{
 
     public BrowserWindowsPage selectBrowserWindows() {
 
-        clickWithJSExecutor(browseWindows,0,200);
+        clickWithJSExecutor(browseWindows, 0, 200);
         return new BrowserWindowsPage(driver);
     }
 
@@ -31,7 +31,15 @@ public class SidePanel extends BasePage{
     WebElement droppable;
 
     public DroppablePage selectDroppable() {
-        clickWithJSExecutor(droppable,0,600);
+        clickWithJSExecutor(droppable, 0, 600);
         return new DroppablePage(driver);
+    }
+
+    @FindBy(xpath = "//span[.='Practice Form']")
+    WebElement practiceForm;
+
+    public PracticeFormPage selectPracticeForm() {
+        clickWithJSExecutor(practiceForm, 0, 100);
+        return new PracticeFormPage(driver);
     }
 }

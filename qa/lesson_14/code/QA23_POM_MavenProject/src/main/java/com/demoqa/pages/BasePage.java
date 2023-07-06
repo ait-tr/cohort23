@@ -1,8 +1,7 @@
 package com.demoqa.pages;
 
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -30,6 +29,14 @@ public abstract class BasePage {
         }
     }
 
+    public void typeWithJSExecutor(WebElement element, String text, int x , int y) {
+        if (text != null) {
+            clickWithJSExecutor(element,x,y);
+            element.clear();
+            element.sendKeys(text);
+        }
+    }
+
     public void clickWithJSExecutor(WebElement element, int x, int y) {
 
         JavascriptExecutor js = (JavascriptExecutor) driver;
@@ -48,11 +55,45 @@ public abstract class BasePage {
         js.executeScript("document.getElementById('adplus-anchor').style.display='none';");
     }
 
+    public void hideFooter() {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("document.querySelector('footer').style.display='none';");
+    }
+
+    public void hideIframes() {
+        hideAd();
+        hideFooter();
+    }
+
     public void pause(int millis) {
         try {
             Thread.sleep(millis);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
+    }
+
+    public void selectOS(WebElement element) {
+        String os = System.getProperty("os.name");
+        System.out.println("My OS: " + os);
+
+        if (os.startsWith("Mac")) {
+            element.sendKeys(Keys.chord(Keys.COMMAND, "a"));
+        } else {
+            element.sendKeys(Keys.chord(Keys.CONTROL, "a"));
+        }
+    }
+
+    public void clickWithRectangle(WebElement element, int x, int y) {
+
+        Rectangle rectangle = element.getRect();
+
+        int offSetX = rectangle.getWidth() / x;
+        int offSetY = rectangle.getHeight() / y;
+
+        Actions actions = new Actions(driver);
+        actions.moveToElement(element).perform();
+        actions.moveByOffset(-offSetX,-offSetY).click().perform();
+
     }
 }
