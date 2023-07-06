@@ -1,0 +1,14 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+"code/springdemo/src/main/java/de/aittr/springdemo/controller/DemoController.java",
+"code/springdemo/src/main/java/de/aittr/springdemo/SpringdemoApplication.java",
+"code/springdemo/src/main/resources/templates/hello_view.html",
+"code/springdemo/src/main/resources/templates/second.html",
+"code/springdemo/src/test/java/de/aittr/springdemo/SpringdemoApplicationTests.java",
+"code/springdemo/target/classes/templates/hello_view.html",
+"code/springdemo/target/classes/templates/second.html"
+  ]
+}
