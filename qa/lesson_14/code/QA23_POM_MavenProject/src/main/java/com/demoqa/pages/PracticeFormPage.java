@@ -4,6 +4,7 @@ import com.beust.ah.A;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.Select;
 
 public class PracticeFormPage extends BasePage {
 
@@ -155,6 +156,26 @@ public class PracticeFormPage extends BasePage {
     public PracticeFormPage submit() {
 
         clickWithRectangle(submit,2,3);
+        return this;
+    }
+
+    @FindBy(css = ".react-datepicker__month-select")
+    WebElement month;
+
+    @FindBy(css = ".react-datepicker__year-select")
+    WebElement year;
+
+    public PracticeFormPage selectDate(String m, String y, String d) {
+
+        clickWithJSExecutor(dateOfBirthInput, 0, 100);
+
+        Select select = new Select(month);
+        select.selectByVisibleText(m);
+
+        Select select1 = new Select(year);
+        select1.selectByVisibleText(y);
+
+        driver.findElement(By.xpath("//div[.='" + d + "']")).click();
         return this;
     }
 }

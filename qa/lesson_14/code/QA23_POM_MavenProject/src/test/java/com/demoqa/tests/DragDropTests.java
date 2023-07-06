@@ -12,11 +12,16 @@ public class DragDropTests extends TestBase{
     public void precondition() {
         new HomePage(driver).getInteractions();
         new SidePanel(driver).selectDroppable();
+        new DroppablePage(driver).hideIframes();
     }
 
     @Test
     public void actionDragMeTest() {
-        new DroppablePage(driver).hideAd();
         new DroppablePage(driver).actionDragMe();
+    }
+
+    @Test
+    public void actionDragMeByTest() {
+        new DroppablePage(driver).dragMeBy(20,50);
     }
 }

@@ -21,7 +21,8 @@ public class PracticeFormTests extends TestBase{
         new PracticeFormPage(driver).enterPersonalData
                         ("Jack","Sparrow","jack@gmail.com","12345678901")
                 .selectGender("Male")
-                .typeDate("13 May 1835")
+                // .typeDate("13 May 1835")
+                .selectDate("May","1935","13")
                 .addSubject(new String[]{"Maths","Physics","English"})
                 .selectHobby(new String[]{"Sports","Reading","Music"})
                 .uploadFile("C:/Tools/12.png")
