@@ -1,0 +1,24 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+"code/iocdemo/src/main/java/de/aittr/iocdemo/Connection.java",
+"code/iocdemo/src/main/java/de/aittr/iocdemo/DeliveryService.java",
+"code/iocdemo/src/main/java/de/aittr/iocdemo/InternetDeliveryService.java",
+"code/iocdemo/src/main/java/de/aittr/iocdemo/IocdemoApplication.java",
+"code/iocdemo/src/main/java/de/aittr/iocdemo/Messenger.java",
+"code/iocdemo/src/main/java/de/aittr/iocdemo/TCPConnection.java",
+"code/iocdemo/src/main/java/de/aittr/iocdemo/TestDeliveryService.java",
+"code/iocdemo/src/test/java/de/aittr/iocdemo/IocdemoApplicationTests.java",
+"code/springdemo/src/main/java/de/aittr/springdemo/controller/DemoController.java",
+"code/springdemo/src/main/java/de/aittr/springdemo/entity/User.java",
+"code/springdemo/src/main/java/de/aittr/springdemo/SpringdemoApplication.java",
+"code/springdemo/src/main/resources/templates/hello_view.html",
+"code/springdemo/src/main/resources/templates/second.html",
+"code/springdemo/src/main/resources/templates/user_view.html",
+"code/springdemo/src/test/java/de/aittr/springdemo/SpringdemoApplicationTests.java",
+"code/springdemo/target/classes/templates/hello_view.html",
+"code/springdemo/target/classes/templates/second.html",
+"code/springdemo/target/classes/templates/user_view.html"  ]
+}
