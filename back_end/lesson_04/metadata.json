@@ -1,0 +1,15 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+"code/MVCdemo/src/main/java/de/aittr/MVCdemo/MvCdemoApplication.java",
+"code/MVCdemo/src/main/java/de/aittr/MVCdemo/User.java",
+"code/MVCdemo/src/main/java/de/aittr/MVCdemo/UserController.java",
+"code/MVCdemo/src/main/java/de/aittr/MVCdemo/UserRepository.java",
+"code/MVCdemo/src/main/java/de/aittr/MVCdemo/UserService.java",
+"code/MVCdemo/src/main/resources/templates/users_view.html",
+"code/MVCdemo/src/test/java/de/aittr/MVCdemo/MvCdemoApplicationTests.java",
+"code/MVCdemo/target/classes/templates/users_view.html"
+  ]
+}
