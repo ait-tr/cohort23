@@ -45,3 +45,10 @@ But
 **@** - Tags
 
 **#**  - Comments
+
+[Презентация](https://docs.google.com/presentation/d/1jZp0BUDrH5tetyJVRIPO5fqLcgtDG1GQ/edit?usp=sharing&ouid=100462493827587974016&rtpof=true&sd=true)
+
+Команда для запуска из консоли
+
+**gradle clean test**
+
