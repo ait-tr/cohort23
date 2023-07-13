@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Autos</title>
+</head>
+<body>
+  <h1>Autos</h1>
+
+    <table border="1px">
+        <tbody>
+        <tr>
+            <th>ID</th>
+            <th>plate</th>
+            <th>brand</th>
+        </tr>
+        <tr  th:each="auto:${myListOfAutos}">
+            <td th:text="${auto.getId()}" />
+            <td th:text="${auto.getPlate()}" />
+            <td th:text="${auto.getBrand()}" />
+        </tr>
+        </tbody>
+    </table>
+
+  <p>
+      <a href="/autos/add"> Add auto </a>
+  </p>
+
+</body>
+</html>

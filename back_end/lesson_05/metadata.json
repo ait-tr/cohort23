@@ -1,0 +1,19 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+"code/auto/src/main/java/de/aittr/auto/Auto.java",
+"code/auto/src/main/java/de/aittr/auto/AutoApplication.java",
+"code/auto/src/main/java/de/aittr/auto/AutoController.java",
+"code/auto/src/main/java/de/aittr/auto/AutoRepository.java",
+"code/auto/src/main/java/de/aittr/auto/AutoService.java",
+"code/auto/src/main/resources/templates/add_auto.html",
+"code/auto/src/main/resources/templates/auto.html",
+"code/auto/src/main/resources/templates/autos_view.html",
+"code/auto/src/test/java/de/aittr/auto/AutoApplicationTests.java",
+"code/auto/target/classes/templates/add_auto.html",
+"code/auto/target/classes/templates/auto.html",
+"code/auto/target/classes/templates/autos_view.html"
+  ]
+}

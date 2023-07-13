@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add new Auto</title>
+</head>
+
+<body>
+<h1>Add new auto</h1>
+<form th:action="@{/autos}"  th:object="${auto}" method="POST" autocomplete="off">
+  <label>ID</label>
+  <input type="text" name="id" th:field="${auto.id}" placeholder="id"/>
+  <label>plate</label>
+  <input type="text" name="plate" th:field="${auto.plate}"  placeholder="plate" />
+
+  <label>brand</label>
+  <input  type="text" name="brand"  th:field="${auto.brand}"  placeholder="brand"/>
+
+  <input type="submit" value="Add auto">
+
+</form>
+
+</body>
+</html>
