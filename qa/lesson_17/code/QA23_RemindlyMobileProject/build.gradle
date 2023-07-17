@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'io.appium:java-client:8.5.1'
+    implementation 'io.appium:java-client:7.6.0'
     implementation 'org.testng:testng:7.8.0'
 }
 

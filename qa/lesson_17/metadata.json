@@ -1,0 +1,15 @@
+{
+  "plan": "plan.md",
+  "homework": "homework.md",
+  "code": [
+    "code/QA23_RemindlyMobileProject/build.gradle",
+    "code/QA23_RemindlyMobileProject/src/main/java/com/remindly/fw/ApplicationManager.java",
+    "code/QA23_RemindlyMobileProject/src/main/java/com/remindly/fw/BaseHelper.java",
+    "code/QA23_RemindlyMobileProject/src/main/java/com/remindly/fw/MainScreenHelper.java",
+    "code/QA23_RemindlyMobileProject/src/main/java/com/remindly/fw/ReminderHelper.java",
+    "code/QA23_RemindlyMobileProject/src/test/java/com/remindly/tests/TestBase.java",
+    "code/QA23_RemindlyMobileProject/src/test/java/com/remindly/tests/MainScreenTests.java",
+    "code/QA23_RemindlyMobileProject/src/test/java/com/remindly/tests/ReminderTests.java"
+  ],
+  "video": ""
+}
