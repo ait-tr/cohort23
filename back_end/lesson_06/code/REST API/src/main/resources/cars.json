@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "model": "BMW",
+    "color": "Black"
+  },
+  {
+    "id": 2,
+    "model": "Audi",
+    "color": "Red"
+  },
+  {
+    "id": 3,
+    "model": "Mercedes",
+    "color": "Silver"
+  },
+  {
+    "id": 4,
+    "model": "Ford",
+    "color": "Blue"
+  }
+]

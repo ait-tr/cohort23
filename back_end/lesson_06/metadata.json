@@ -1,0 +1,25 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/Architecture Example/src/models/User.java",
+    "code/Architecture Example/src/repositories/impl/UsersRepositoryFileImpl.java",
+    "code/Architecture Example/src/repositories/impl/UsersRepositoryListImpl.java",
+    "code/Architecture Example/src/repositories/UsersRepository.java",
+    "code/Architecture Example/src/services/UsersService.java",
+    "code/Architecture Example/src/Main.java",
+    "code/Architecture Example/src/Main2.java",
+    "code/Architecture Example/users.txt",
+    "code/REST API/src/main/java/de/ait/rentacar/controllers/CarsController.java",
+    "code/REST API/src/main/java/de/ait/rentacar/models/Car.java",
+    "code/REST API/src/main/java/de/ait/rentacar/repositories/impl/CarsRepositoryListImpl.java",
+    "code/REST API/src/main/java/de/ait/rentacar/repositories/CarsRepository.java",
+    "code/REST API/src/main/java/de/ait/rentacar/services/impl/CarsServiceImpl.java",
+    "code/REST API/src/main/java/de/ait/rentacar/services/CarsService.java",
+    "code/REST API/src/main/java/de/ait/rentacar/RestApiApplication.java",
+    "code/REST API/src/main/resources/cars.json",
+    "code/REST API/pom.xml"
+
+  ]
+}
