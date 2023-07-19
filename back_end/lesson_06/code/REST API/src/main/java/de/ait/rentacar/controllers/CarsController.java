@@ -2,7 +2,6 @@ package de.ait.rentacar.controllers;
 
 import de.ait.rentacar.models.Car;
 import de.ait.rentacar.services.CarsService;
-import de.ait.rentacar.services.impl.CarsServiceImpl;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -20,7 +19,7 @@ public class CarsController {
 
     private final CarsService carsService; // ставим final, чтобы это поле нельзя было поменять
 
-    public CarsController(CarsServiceImpl service) {
+    public CarsController(CarsService service) {
         this.carsService = service;
     }
 
