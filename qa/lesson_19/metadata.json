@@ -1,7 +1,6 @@
 {
   "plan": "plan.md",
   "theory": "theory.md",
-  "homework": "homework.md",
   "code": [
     "code/QA23_API_Phonebook/build.gradle",
     "code/QA23_API_Phonebook/src/main/java/com/phonebook/dto/AuthRequestDto.java",
