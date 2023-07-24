@@ -1,0 +1,14 @@
+{
+  "theory": "theory.md",
+  "code": [
+    "src/Main3.java",
+    "src/Main2.java",
+    "src/Main.java",
+    "src/Main4.java",
+    "src/Human.java",
+    "src/MainConsumerForeachExample.java",
+    "src/Main5.java",
+    "src/NumbersToStringFunction.java",
+    "src/NumbersToStringProcessor.java"
+  ]
+}
