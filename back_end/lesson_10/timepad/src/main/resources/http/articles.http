@@ -1,0 +1,67 @@
+
+### Добавление статьи-1 о Марселе
+
+POST localhost:8080/api/articles
+Content-Type: application/json
+
+{
+  "text" : "Статья о Марселе, преподавателе AIT. Любит быстро объяснять",
+  "aboutUserId": 1,
+  "publishDate": "2022-01-02"
+}
+
+### Добавление статьи-2 о Марселе
+
+POST localhost:8080/api/articles
+Content-Type: application/json
+
+{
+  "text" : "Еще одна статья о Марселе. Знает Spring!",
+  "aboutUserId": 1,
+  "publishDate": "2022-01-22"
+}
+
+### Добавление статьи-3 о Марселе
+
+POST localhost:8080/api/articles
+Content-Type: application/json
+
+{
+  "text" : "Понимает Frontend",
+  "aboutUserId": 1,
+  "publishDate": "2021-02-02"
+}
+
+### Добавление статьи-4 о Марселе
+
+POST localhost:8080/api/articles
+Content-Type: application/json
+
+{
+  "text" : "Понимает Frontend",
+  "aboutUserId": 1,
+  "publishDate": "2022-02-02"
+}
+
+### Добавление статьи об Алишере
+
+POST localhost:8080/api/articles
+Content-Type: application/json
+
+{
+  "text" : "Очень хорошо понимает Frontend!",
+  "aboutUserId": 2,
+  "publishDate": "2022-02-02"
+}
+
+### Получение всех статей о Марселе
+
+GET localhost:8080/api/users/1/articles
+
+### Получение всех статей об Алишере
+
+GET localhost:8080/api/users/2/articles
+
+### Получение всех статей по дате
+
+GET localhost:8080/api/articles?year=2021&month=1

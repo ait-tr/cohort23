@@ -1,0 +1,52 @@
+### Добавление Марселя
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "email": "sidikov.marsel.com",
+  "password": "                    "
+}
+
+### Добавление Алишера
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "email": "alisher@gmail.com",
+  "password": "qwerty008"
+}
+
+
+### Получение всех пользователей
+
+GET localhost:8080/api/users
+
+### Удаление пользователя
+
+DELETE localhost:8080/api/users/2
+
+### Обновление Марселя
+
+PUT http://localhost:8080/api/users/1
+Content-Type: application/json
+
+{
+  "newRole" : "MANAGER",
+  "newState" : "BANNED"
+}
+
+### Обновление Алишера
+
+PUT http://localhost:8080/api/users/2
+Content-Type: application/json
+
+{
+  "newRole" : "ADMIN",
+  "newState" : "BANNED"
+}
+
+### Получаем Марселя
+
+GET http://localhost:8080/api/users/1
