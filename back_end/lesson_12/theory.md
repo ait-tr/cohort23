@@ -62,4 +62,4 @@ jdbcTemplate используя правило, описанное в лябмд
                 .build()
 ```
 
-![image](https://raw.githubusercontent.com/ait-tr/cohort23/main/back_end/lesson_13/img/1.png)
+![image](https://raw.githubusercontent.com/ait-tr/cohort23/main/back_end/lesson_12/img/1.png)
