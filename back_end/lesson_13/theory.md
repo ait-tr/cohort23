@@ -161,3 +161,5 @@ spring.jpa.hibernate.ddl-auto=update
 * При использовании `update` - он не следит за изменением типов (игнорирует).
 * Если поменять название поля - Hibernate просто создаст новый столбец с новым названием (старый не удалит)
 * При добавлении поля - добавит новый столбец, при удалении - проигнорирует
+
+![image](https://raw.githubusercontent.com/ait-tr/cohort23/main/back_end/lesson_13/img/1.png)
