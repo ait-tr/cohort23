@@ -1,0 +1,21 @@
+GET localhost:8080/users
+
+###
+
+POST localhost:8080/users
+Content-Type: application/json
+
+{
+  "firstName": "Новый пользователь",
+  "lastName": "Очень новый!"
+}
+
+###
+
+POST localhost:8080/events
+Content-Type: application/json
+
+{
+  "title": "Новое событие",
+  "description": "Самое интересное"
+}
