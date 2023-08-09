@@ -1,0 +1,7 @@
+POST localhost:8080/events
+Content-Type: application/json
+
+{
+  "startTime": "15:00",
+  "finishTime": "11:00"
+}
