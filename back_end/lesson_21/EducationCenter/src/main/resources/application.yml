@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:h2:file:~/databases/ec_db;AUTO_SERVER=TRUE
+    username: admin
+    password: admin
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
