@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:ec_test_db
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: false
